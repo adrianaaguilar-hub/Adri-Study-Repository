@@ -1,7 +1,7 @@
 package Programación2.ExamenFinal.BeachClub;
 
 public abstract class Consumcion {
-    private String nombre;
+    protected String nombre;
     protected double precioBase;
     
 

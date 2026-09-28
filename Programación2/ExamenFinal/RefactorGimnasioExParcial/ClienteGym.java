@@ -22,7 +22,7 @@ public class ClienteGym {
         Actividad spinning = new Actividad("Spinning", "Adriana", aforo14);
         Actividad yoga = new Actividad("Yoga", "Samuel", aforo15);
 
-        miGym.inscribirSocio(socio1);
+        miGym.inscribirSocio(socio1); //Esto esta mal tenes que poner la casilla del array que corresponde socios[0]
         miGym.inscribirSocio(socio2);
 
         Fecha fechaReserva = new Fecha(1, 4, 2026);
