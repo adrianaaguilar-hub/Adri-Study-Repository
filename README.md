@@ -1,44 +1,44 @@
 
-# 🎓 Mi ruta por Ingeniería Informática
+# 🎓 My Computer Science Journey
 
-> Repositorio personal para guardar, practicar y seguir todo lo que voy aprendiendo durante la carrera.
+> Personal repository to store, practice, and keep track of everything I learn throughout my degree.
 
-![Estado](https://img.shields.io/badge/estado-en%20progreso-2ea44f?style=for-the-badge)
-![Carrera](https://img.shields.io/badge/carrera-Ingenier%C3%ADa%20Inform%C3%A1tica-0969da?style=for-the-badge)
-![Lenguaje principal](https://img.shields.io/badge/lenguaje-Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
+![Status](https://img.shields.io/badge/status-in%20progress-2ea44f?style=for-the-badge)
+![Degree](https://img.shields.io/badge/degree-Computer%20Science-0969da?style=for-the-badge)
+![Main language](https://img.shields.io/badge/main%20language-Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🧭 Mi recorrido
+## 🧭 My journey
 
-Este repositorio acompaña mi avance académico: aquí reúno apuntes, ejercicios, prácticas, proyectos y pequeñas pruebas de cada materia.
+This repository follows my academic progress. Here I collect notes, exercises, practice work, projects, and small experiments for each subject.
 
 ```text
-Primer año  ──► Programación 1 ──► Programación 2 ──► IGPS
-													   
-													   
-Actualidad  ──► EDAI ───────────────► Bases de Datos
+First year  ──► Programming 1 ──► Programming 2 ──► IGPS
+													   │
+													   ▼
+Currently  ──► EDAI ───────────────► Databases
 ```
 
-## 📚 Materias
+## 📚 Subjects
 
-### ✅ Primer año
+### ✅ First year
 
-| Materia | Qué encontrarás | Acceso |
+| Subject | What you will find | Access |
 | --- | --- | --- |
-| 💻 **Programación 1** | Fundamentos de programación, ejercicios y prácticas | [Abrir rama](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-1) |
-| 🧩 **Programación 2** | POO, clases, herencia, interfaces y proyectos | [Abrir rama](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-2) |
-| 🌐 **IGPS** | Guías, comandos y recursos de apoyo | [Abrir rama](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/igps) |
+| 💻 **Programming 1** | Programming fundamentals, exercises, and practice work | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-1) |
+| 🧩 **Programming 2** | OOP, classes, inheritance, interfaces, and projects | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-2) |
+| 🌐 **IGPS** | Guides, commands, and support resources | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/igps) |
 
-### 🔥 En curso
+### 🔥 Currently studying
 
-| Materia | Estado | Acceso |
+| Subject | Status | Access |
 | --- | --- | --- |
-| 🤖 **EDAI** | 🟡 En aprendizaje | [Abrir rama](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/edai) |
-| 🗄️ **Bases de Datos** | 🟡 En aprendizaje | [Abrir rama](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/bases-de-datos) |
+| 🤖 **EDAI** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/edai) |
+| 🗄️ **Databases** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/bases-de-datos) |
 
 <details>
-<summary>✨ ¿Cómo está organizado el repositorio?</summary>
+<summary>✨ How is the repository organized?</summary>
 
-Cada materia tiene su propia rama para que sus contenidos permanezcan agrupados y sea fácil consultar su evolución sin mezclar apuntes ni ejercicios.
+Each subject has its own branch so its content stays organized and it is easy to follow its progress without mixing notes and exercises.
 
 - 🧠 `materia/programacion-1`
 - 🧠 `materia/programacion-2`
@@ -46,29 +46,29 @@ Cada materia tiene su propia rama para que sus contenidos permanezcan agrupados 
 - 🤖 `materia/edai`
 - 🗄️ `materia/bases-de-datos`
 
-También existe una rama de apuntes generales: [📖 `materia/apuntes`](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/apuntes).
+There is also a general notes branch: [📖 `materia/apuntes`](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/apuntes).
 
 </details>
 
-## 🛠️ Cómo usar este repositorio
+## 🛠️ How to use this repository
 
-1. Elige una materia en la tabla.
-2. Entra en su rama para consultar el contenido.
-3. Revisa los ejercicios y proyectos disponibles.
-4. Sigue los nuevos avances a medida que se incorporen.
+1. Choose a subject from the table.
+2. Open its branch to explore the content.
+3. Review the available exercises and projects.
+4. Follow new progress as it is added.
 
 ```bash
 git clone https://github.com/adrianaaguilar-hub/Practicas.git
 git switch materia/edai
 ```
 
-## 🌱 Progreso
+## 🌱 Progress
 
-Este repositorio está en construcción constante. Cada ejercicio representa una idea nueva, cada error deja una lección y cada proyecto marca un paso más en el camino.
+This repository is constantly evolving. Every exercise represents a new idea, every mistake leaves a lesson, and every project marks another step forward.
 
-> ⭐ El objetivo no es solo guardar código: es poder volver atrás, entender mi evolución y seguir aprendiendo.
+> ⭐ The goal is not only to store code, but also to look back, understand my progress, and keep learning.
 
-## 👩‍💻 Sobre este espacio
+## 👩‍💻 About this space
 
-**Ingeniería Informática** · Apuntes · Prácticas · Java · Aprendizaje continuo
+**Computer Science** · Notes · Practice · Java · Continuous learning
 
