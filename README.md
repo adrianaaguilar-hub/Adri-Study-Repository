@@ -24,8 +24,8 @@ Currently  ──► EDAI ───────────────► Datab
 
 | Subject | What you will find | Access |
 | --- | --- | --- |
-| 💻 **Programming 1** | Programming fundamentals, exercises, and practice work | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-1) |
-| 🧩 **Programming 2** | OOP, classes, inheritance, interfaces, and projects | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-2) |
+| 💻 **Programacion 1** | Programming fundamentals, exercises, and practice work | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-1) |
+| 🧩 **Programacion 2** | OOP, classes, inheritance, interfaces, and projects | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-2) |
 | 🌐 **IGPS** | Guides, commands, and support resources | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/igps) |
 
 ### 🔥 Currently studying
