@@ -16,6 +16,7 @@ public class PyEdlin {
         lineas[7] = "[D] deshace la última acción realizada";
         lineas[8] = "[S] sale del programa";
         lineas[9] = "";
+        int prueba;
 
         int lineaActiva = 1;
         boolean usuarioActivo = true;
