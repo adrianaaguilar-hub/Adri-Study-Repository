@@ -24,16 +24,16 @@ Currently  ──► EDAI ───────────────► Datab
 
 | Subject | What you will find | Access |
 | --- | --- | --- |
-| 💻 **Programming 1** | Programming fundamentals, exercises, and practice work | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-1) |
-| 🧩 **Programming 2** | OOP, classes, inheritance, interfaces, and projects | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/programacion-2) |
-| 🌐 **IGPS** | Guides, commands, and support resources | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/igps) |
+| 💻 **Programming 1** | Programming fundamentals, exercises, and practice work | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-1) |
+| 🧩 **Programming 2** | OOP, classes, inheritance, interfaces, and projects | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/programacion-2) |
+| 🌐 **IGPS** | Guides, commands, and support resources | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/igps) |
 
 ### 🔥 Currently studying
 
 | Subject | Status | Access |
 | --- | --- | --- |
-| 🤖 **EDAI** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/edai) |
-| 🗄️ **Databases** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/bases-de-datos) |
+| 🤖 **EDAI** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/edai) |
+| 🗄️ **Databases** | 🟡 In progress | [Open branch](https://github.com/adrianaaguilar-hub/Adri-Study-Repository/tree/materia/bases-de-datos) |
 
 <details>
 <summary>✨ How is the repository organized?</summary>
@@ -46,8 +46,6 @@ Each subject has its own branch so its content stays organized and it is easy to
 - 🤖 `materia/edai`
 - 🗄️ `materia/bases-de-datos`
 
-There is also a general notes branch: [📖 `materia/apuntes`](https://github.com/adrianaaguilar-hub/Practicas/tree/materia/apuntes).
-
 </details>
 
 ## 🛠️ How to use this repository
@@ -58,7 +56,7 @@ There is also a general notes branch: [📖 `materia/apuntes`](https://github.co
 4. Follow new progress as it is added.
 
 ```bash
-git clone https://github.com/adrianaaguilar-hub/Practicas.git
+git clone https://github.com/adrianaaguilar-hub/Adri-Study-Repository.git
 git switch materia/edai
 ```
 
