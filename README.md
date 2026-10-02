@@ -12,7 +12,7 @@
 This repository follows my academic progress. Here I collect notes, exercises, practice work, projects, and small experiments for each subject.
 
 ```text
-First year  ──► Programming 1 ──► Programming 2 ──► IGPS
+First year  ──► Programacion 1 ──► Programacion 2 ──► IGPS
 													   │
 													   ▼
 Currently  ──► EDAI ───────────────► Databases
