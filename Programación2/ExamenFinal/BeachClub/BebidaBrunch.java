@@ -17,4 +17,9 @@ public class BebidaBrunch extends Consumicion {
             return precioBase;
         }
     }
+
+    public void cambiarNombre(String nombre){
+        this.nombre = nombredasfas
+    }
 } // :)
+
