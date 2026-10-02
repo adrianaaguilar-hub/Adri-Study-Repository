@@ -125,3 +125,5 @@ public class MiClase {
 - ✅ **SÍ** divide cada problema en pasos minúsculos
 - ❌ **NO** copies código
 - ✅ **SÍ** entiende cada línea antes de avanzar
+
+solo revision de commits
