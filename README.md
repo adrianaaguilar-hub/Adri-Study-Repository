@@ -13,8 +13,8 @@ Este repositorio acompaña mi avance académico: aquí reúno apuntes, ejercicio
 
 ```text
 Primer año  ──► Programación 1 ──► Programación 2 ──► IGPS
-													   │
-													   ▼
+													   
+													   
 Actualidad  ──► EDAI ───────────────► Bases de Datos
 ```
 
