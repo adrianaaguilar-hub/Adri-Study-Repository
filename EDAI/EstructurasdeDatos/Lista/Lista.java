@@ -18,7 +18,7 @@ public class Lista {
         this.inicio = inicio;
     }
 
-    //prueba
+    //prueba 2
 
     public Nodo obtenerFin () {
         return fin;
