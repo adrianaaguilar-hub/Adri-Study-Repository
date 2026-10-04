@@ -2,12 +2,36 @@ package EDAI.EstructurasdeDatos.Lista;
 
 public class Lista {
     private Nodo inicio;
-    private Nodo final;
+    private Nodo fin;
     private int cantidadElementos;
 
     public Lista () {
         this.inicio = null;
-        this.final = null;
+        this.fin = null;
+    }
+
+    public Nodo obtenerInicio () {
+        return inicio;
+    }
+
+    public void fijarInicio (Nodo inicio) {
+        this.inicio = inicio;
+    }
+
+    public Nodo obtenerFin () {
+        return fin;
+    }
+
+    public void fijarFin (Nodo fin) {
+        this.fin = fin;
+    }
+
+    public int obtenerCantidadElementos () {
+        return cantidadElementos;
+    }
+
+    public void fijarCantidadElementos (int cantidadElementos) {
+        this.cantidadElementos = cantidadElementos;
     }
 
     public boolean estaVacia () {
