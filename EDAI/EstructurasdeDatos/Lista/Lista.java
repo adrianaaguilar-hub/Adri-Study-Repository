@@ -40,8 +40,8 @@ public class Lista {
         return inicio == null && fin == null;
     }
 
-    private void agregarInicio () {
-        if (vacia()) {
+    public void agregarInicio (int elemento) {
+        if (estaVacia()) {
             inicio = fin = new Nodo(elemento);
         } else {
             inicio = new Nodo(elemento, inicio);
@@ -50,14 +50,14 @@ public class Lista {
 
     }
 
-    private void agregarFinal () {
-        if (vacia()) {
+    public void agregarFinal (int elemento) {
+        if (estaVacia()) {
             agregarInicio(elemento);
         } else {
-            fijarFin(new Nodo (elemento));
-            fin = fin.obtenerFin
+            fin.fijarSiguienteDato(new Nodo(elemento));
+            fin = fin.obtenerSiguienteDato();
+            cantidadElementos ++;
         }
-        cantidadElementos ++;
     }
 
     private void quitarElementoInicio () {
@@ -71,7 +71,7 @@ public class Lista {
     public String mostrar () {
         String salida = "";
         Nodo auxiliar = inicio;
-        while (auxiliar! = null) {
+        while (auxiliar != null) {
             salida += auxiliar.obtenerDato() + " ";
             auxiliar = auxiliar.obtenerSiguienteDato();
         }
