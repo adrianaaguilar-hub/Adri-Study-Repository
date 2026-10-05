@@ -5,13 +5,13 @@ public class Nodo {
     private Nodo siguiente;
 
     public Nodo (int dato, Nodo siguiente) {
-        thi.dato = dato;
+        this.dato = dato;
         this.siguiente = siguiente;
     }
 
     public Nodo (int dato) {
         this.dato = dato;
-        this.suiguiente = null;
+        this.siguiente = null;
     }
 
     
@@ -27,7 +27,7 @@ public class Nodo {
         return siguiente;
     }
 
-    public void fijarSiguienteDato( Nodo suiguiente) {
+    public void fijarSiguienteDato( Nodo siguiente) {
         this.siguiente = siguiente;
     }
 }
