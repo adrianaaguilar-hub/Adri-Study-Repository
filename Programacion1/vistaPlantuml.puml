@@ -1,0 +1,43 @@
+@startuml
+
+skinparam rectangle {
+    BackgroundColor White
+    BorderColor Black
+}
+rectangle "Categoría" as Categoria
+rectangle "Vehículo" as Vehiculo
+rectangle "Estación" as Estacion
+rectangle "Cliente" as Cliente
+rectangle "Alquiler" as Alquiler
+rectangle "Pago" as Pago
+
+rectangle "◇\nPertenece a" as Pertenece
+rectangle "◇\nEstá ubicado en" as UbicadoEn
+rectangle "◇\nRealiza" as Realiza
+rectangle "◇\nUtiliza" as Utiliza
+rectangle "◇\nInicia en" as IniciaEn
+rectangle "◇\nFinaliza en" as FinalizaEn
+rectangle "◇\nRegistra" as Registra
+
+Categoria "1" -- Pertenece
+Pertenece -- "N" Vehiculo
+
+Estacion "1" -- UbicadoEn
+UbicadoEn -- "N" Vehiculo
+
+Cliente "1" -- Realiza
+Realiza -- "N" Alquiler
+
+Vehiculo "1" -- Utiliza
+Utiliza -- "N" Alquiler
+
+Estacion "1" -- IniciaEn
+IniciaEn -- "N" Alquiler
+
+Estacion "1" -- FinalizaEn
+FinalizaEn -- "N" Alquiler
+
+Alquiler "1" -- Registra
+Registra -- "N" Pago
+
+@enduml
